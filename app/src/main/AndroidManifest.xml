@@ -10,7 +10,9 @@
         android:label="@string/app_name"
         android:icon="@mipmap/ic_launcher"
         android:theme="@style/RedTheme">
-
+//hi abhishek
+        //its adi here
+        
         <activity
             android:name=".ui.MainActivity"
             android:launchMode="singleTop"
